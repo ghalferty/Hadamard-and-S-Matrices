@@ -302,6 +302,287 @@ This library currently contains all known matrices up to order 768. It consists 
 [Order 384](./another-page.html).
 <img src="Hadamard_matrices/384.png" class="img-responsive" alt="">
 
+[Order 388](./another-page.html).
+<img src="Hadamard_matrices/388.png" class="img-responsive" alt="">
+
+[Order 392](./another-page.html).
+<img src="Hadamard_matrices/392.png" class="img-responsive" alt="">
+
+[Order 396](./another-page.html).
+<img src="Hadamard_matrices/396.png" class="img-responsive" alt="">
+
+[Order 400](./another-page.html).
+<img src="Hadamard_matrices/400.png" class="img-responsive" alt="">
+
+[Order 404](./another-page.html).
+<img src="Hadamard_matrices/404.png" class="img-responsive" alt="">
+
+[Order 408](./another-page.html).
+<img src="Hadamard_matrices/408.png" class="img-responsive" alt="">
+
+[Order 412](./another-page.html).
+<img src="Hadamard_matrices/412.png" class="img-responsive" alt="">
+
+[Order 416](./another-page.html).
+<img src="Hadamard_matrices/416.png" class="img-responsive" alt="">
+
+[Order 420](./another-page.html).
+<img src="Hadamard_matrices/420.png" class="img-responsive" alt="">
+
+[Order 424](./another-page.html).
+<img src="Hadamard_matrices/424.png" class="img-responsive" alt="">
+
+[Order 428](./another-page.html).
+<img src="Hadamard_matrices/428.png" class="img-responsive" alt="">
+
+[Order 432](./another-page.html).
+<img src="Hadamard_matrices/432.png" class="img-responsive" alt="">
+
+[Order 436](./another-page.html).
+<img src="Hadamard_matrices/436.png" class="img-responsive" alt="">
+
+[Order 440](./another-page.html).
+<img src="Hadamard_matrices/440.png" class="img-responsive" alt="">
+
+[Order 444](./another-page.html).
+<img src="Hadamard_matrices/444.png" class="img-responsive" alt="">
+
+[Order 448](./another-page.html).
+<img src="Hadamard_matrices/448.png" class="img-responsive" alt="">
+
+[Order 452](./another-page.html).
+<img src="Hadamard_matrices/452.png" class="img-responsive" alt="">
+
+[Order 456](./another-page.html).
+<img src="Hadamard_matrices/456.png" class="img-responsive" alt="">
+
+[Order 460](./another-page.html).
+<img src="Hadamard_matrices/460.png" class="img-responsive" alt="">
+
+[Order 464](./another-page.html).
+<img src="Hadamard_matrices/464.png" class="img-responsive" alt="">
+
+[Order 468](./another-page.html).
+<img src="Hadamard_matrices/468.png" class="img-responsive" alt="">
+
+[Order 472](./another-page.html).
+<img src="Hadamard_matrices/472.png" class="img-responsive" alt="">
+
+[Order 476](./another-page.html).
+<img src="Hadamard_matrices/476.png" class="img-responsive" alt="">
+
+[Order 480](./another-page.html).
+<img src="Hadamard_matrices/480.png" class="img-responsive" alt="">
+
+[Order 484](./another-page.html).
+<img src="Hadamard_matrices/484.png" class="img-responsive" alt="">
+
+[Order 488](./another-page.html).
+<img src="Hadamard_matrices/488.png" class="img-responsive" alt="">
+
+[Order 492](./another-page.html).
+<img src="Hadamard_matrices/492.png" class="img-responsive" alt="">
+
+[Order 496](./another-page.html).
+<img src="Hadamard_matrices/496.png" class="img-responsive" alt="">
+
+[Order 500](./another-page.html).
+<img src="Hadamard_matrices/500.png" class="img-responsive" alt="">
+
+[Order 504](./another-page.html).
+<img src="Hadamard_matrices/504.png" class="img-responsive" alt="">
+
+[Order 508](./another-page.html).
+<img src="Hadamard_matrices/508.png" class="img-responsive" alt="">
+
+[Order 512](./another-page.html).
+<img src="Hadamard_matrices/512.png" class="img-responsive" alt="">
+
+[Order 516](./another-page.html).
+<img src="Hadamard_matrices/516.png" class="img-responsive" alt="">
+
+[Order 520](./another-page.html).
+<img src="Hadamard_matrices/520.png" class="img-responsive" alt="">
+
+[Order 524](./another-page.html).
+<img src="Hadamard_matrices/524.png" class="img-responsive" alt="">
+
+[Order 528](./another-page.html).
+<img src="Hadamard_matrices/528.png" class="img-responsive" alt="">
+
+[Order 532](./another-page.html).
+<img src="Hadamard_matrices/532.png" class="img-responsive" alt="">
+
+[Order 536](./another-page.html).
+<img src="Hadamard_matrices/536.png" class="img-responsive" alt="">
+
+[Order 540](./another-page.html).
+<img src="Hadamard_matrices/540.png" class="img-responsive" alt="">
+
+[Order 544](./another-page.html).
+<img src="Hadamard_matrices/544.png" class="img-responsive" alt="">
+
+[Order 548](./another-page.html).
+<img src="Hadamard_matrices/548.png" class="img-responsive" alt="">
+
+[Order 552](./another-page.html).
+<img src="Hadamard_matrices/552.png" class="img-responsive" alt="">
+
+[Order 556](./another-page.html).
+<img src="Hadamard_matrices/556.png" class="img-responsive" alt="">
+
+[Order 560](./another-page.html).
+<img src="Hadamard_matrices/560.png" class="img-responsive" alt="">
+
+[Order 564](./another-page.html).
+<img src="Hadamard_matrices/564.png" class="img-responsive" alt="">
+
+[Order 568](./another-page.html).
+<img src="Hadamard_matrices/568.png" class="img-responsive" alt="">
+
+[Order 572](./another-page.html).
+<img src="Hadamard_matrices/572.png" class="img-responsive" alt="">
+
+[Order 576](./another-page.html).
+<img src="Hadamard_matrices/576.png" class="img-responsive" alt="">
+
+[Order 580](./another-page.html).
+<img src="Hadamard_matrices/580.png" class="img-responsive" alt="">
+
+[Order 584](./another-page.html).
+<img src="Hadamard_matrices/584.png" class="img-responsive" alt="">
+
+[Order 588](./another-page.html).
+<img src="Hadamard_matrices/588.png" class="img-responsive" alt="">
+
+[Order 592](./another-page.html).
+<img src="Hadamard_matrices/592.png" class="img-responsive" alt="">
+
+[Order 596](./another-page.html).
+<img src="Hadamard_matrices/596.png" class="img-responsive" alt="">
+
+[Order 600](./another-page.html).
+<img src="Hadamard_matrices/600.png" class="img-responsive" alt="">
+
+[Order 604](./another-page.html).
+<img src="Hadamard_matrices/604.png" class="img-responsive" alt="">
+
+[Order 608](./another-page.html).
+<img src="Hadamard_matrices/608.png" class="img-responsive" alt="">
+
+[Order 612](./another-page.html).
+<img src="Hadamard_matrices/612.png" class="img-responsive" alt="">
+
+[Order 616](./another-page.html).
+<img src="Hadamard_matrices/616.png" class="img-responsive" alt="">
+
+[Order 620](./another-page.html).
+<img src="Hadamard_matrices/620.png" class="img-responsive" alt="">
+
+[Order 624](./another-page.html).
+<img src="Hadamard_matrices/624.png" class="img-responsive" alt="">
+
+[Order 628](./another-page.html).
+<img src="Hadamard_matrices/628.png" class="img-responsive" alt="">
+
+[Order 632](./another-page.html).
+<img src="Hadamard_matrices/632.png" class="img-responsive" alt="">
+
+[Order 636](./another-page.html).
+<img src="Hadamard_matrices/636.png" class="img-responsive" alt="">
+
+[Order 640](./another-page.html).
+<img src="Hadamard_matrices/640.png" class="img-responsive" alt="">
+
+[Order 644](./another-page.html).
+<img src="Hadamard_matrices/644.png" class="img-responsive" alt="">
+
+[Order 648](./another-page.html).
+<img src="Hadamard_matrices/648.png" class="img-responsive" alt="">
+
+[Order 652](./another-page.html).
+<img src="Hadamard_matrices/652.png" class="img-responsive" alt="">
+
+[Order 656](./another-page.html).
+<img src="Hadamard_matrices/656.png" class="img-responsive" alt="">
+
+[Order 660](./another-page.html).
+<img src="Hadamard_matrices/660.png" class="img-responsive" alt="">
+
+[Order 664](./another-page.html).
+<img src="Hadamard_matrices/664.png" class="img-responsive" alt="">
+
+[Order 672](./another-page.html).
+<img src="Hadamard_matrices/672.png" class="img-responsive" alt="">
+
+[Order 676](./another-page.html).
+<img src="Hadamard_matrices/676.png" class="img-responsive" alt="">
+
+[Order 680](./another-page.html).
+<img src="Hadamard_matrices/680.png" class="img-responsive" alt="">
+
+[Order 684](./another-page.html).
+<img src="Hadamard_matrices/684.png" class="img-responsive" alt="">
+
+[Order 688](./another-page.html).
+<img src="Hadamard_matrices/688.png" class="img-responsive" alt="">
+
+[Order 692](./another-page.html).
+<img src="Hadamard_matrices/692.png" class="img-responsive" alt="">
+
+[Order 696](./another-page.html).
+<img src="Hadamard_matrices/696.png" class="img-responsive" alt="">
+
+[Order 700](./another-page.html).
+<img src="Hadamard_matrices/700.png" class="img-responsive" alt="">
+
+[Order 704](./another-page.html).
+<img src="Hadamard_matrices/704.png" class="img-responsive" alt="">
+
+[Order 708](./another-page.html).
+<img src="Hadamard_matrices/708.png" class="img-responsive" alt="">
+
+[Order 712](./another-page.html).
+<img src="Hadamard_matrices/712.png" class="img-responsive" alt="">
+
+[Order 720](./another-page.html).
+<img src="Hadamard_matrices/720.png" class="img-responsive" alt="">
+
+[Order 724](./another-page.html).
+<img src="Hadamard_matrices/724.png" class="img-responsive" alt="">
+
+[Order 728](./another-page.html).
+<img src="Hadamard_matrices/728.png" class="img-responsive" alt="">
+
+[Order 732](./another-page.html).
+<img src="Hadamard_matrices/732.png" class="img-responsive" alt="">
+
+[Order 736](./another-page.html).
+<img src="Hadamard_matrices/736.png" class="img-responsive" alt="">
+
+[Order 740](./another-page.html).
+<img src="Hadamard_matrices/740.png" class="img-responsive" alt="">
+
+[Order 744](./another-page.html).
+<img src="Hadamard_matrices/744.png" class="img-responsive" alt="">
+
+[Order 748](./another-page.html).
+<img src="Hadamard_matrices/748.png" class="img-responsive" alt="">
+
+[Order 752](./another-page.html).
+<img src="Hadamard_matrices/752.png" class="img-responsive" alt="">
+
+[Order 756](./another-page.html).
+<img src="Hadamard_matrices/756.png" class="img-responsive" alt="">
+
+[Order 760](./another-page.html).
+<img src="Hadamard_matrices/760.png" class="img-responsive" alt="">
+
+[Order 764](./another-page.html).
+<img src="Hadamard_matrices/764.png" class="img-responsive" alt="">
+
+[Order 768](./another-page.html).
+<img src="Hadamard_matrices/768.png" class="img-responsive" alt="">
 
 # S-Matrices
 
