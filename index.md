@@ -96,6 +96,8 @@ end
 
 ![1]([https://github.githubassets.com/images/icons/emoji/octocat.png](https://github.com/ghalferty/Hadamard-and-S-Matrices/blob/main/Hadamard_matrices/1.png))
 
+<img src="Hadamard_matrices/1.png" class="img-responsive" alt=""> </div>
+
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
