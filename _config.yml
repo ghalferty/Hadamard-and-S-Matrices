@@ -4,3 +4,11 @@ plugins:
 show_downloads: true
 title: [Hadamard and S Matrix Library]
 description: [This site serves as a recurring library of examples of all known orders of Hadamard and S matrices.]
+
+# Hadamard Matrices
+This document serves as a recurring library of examples of all known orders of Hadamard matrices. It does not list every inequivalent matrix. 
+
+This library currently contains all known matrices up to order 768. It consists of every multiple of 4 except for 668 and 716, for which no known matrix is found.
+
+# S Matrices
+This document serves as a recurring library of examples of all known orders of S-matrices. It does not list every inequivalent matrix. 
