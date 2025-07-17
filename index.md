@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![1]([https://github.githubassets.com/images/icons/emoji/octocat.png](https://github.com/ghalferty/Hadamard-and-S-Matrices/blob/main/Hadamard_matrices/1.png))
 
 ### Large image
 
