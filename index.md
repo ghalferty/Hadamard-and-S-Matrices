@@ -10,15 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Hadamard Matrices
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This document serves as a recurring library of examples of all known orders of Hadamard matrices. It does not list every inequivalent matrix. 
 
-## Header 2
+This library currently contains all known matrices up to order 768. It consists of every multiple of 4 except for 668 and 716, for which no known matrix is found.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## S-Matrices
+
+This document serves as a recurring library of examples of all known orders of S-matrices. It does not list every inequivalent matrix. 
 
 ### Header 3
 
