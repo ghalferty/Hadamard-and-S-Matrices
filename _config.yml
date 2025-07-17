@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme 
 show_downloads: true
 title: [Hadamard and S Matrix Library]
-description: [This site serves as a recurring library of examples of all known orders of Hadamard and S matrices.]
+description: [This site serves as a virtual library of examples of all known orders of Hadamard and S matrices.]
 
 
