@@ -5,6 +5,10 @@ show_downloads: true
 title: [Hadamard and S Matrix Library]
 description: [This site serves as a recurring library of examples of all known orders of Hadamard and S matrices.]
 
+---
+layout: default
+---
+
 # Hadamard Matrices
 This document serves as a recurring library of examples of all known orders of Hadamard matrices. It does not list every inequivalent matrix. 
 
