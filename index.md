@@ -588,3 +588,596 @@ This library currently contains all known matrices up to order 768. It consists 
 
 This website serves as a recurring library of examples of all known orders of S-matrices. It does not list every inequivalent matrix. 
 
+[Order 0](./another-page.html).
+<img src="S_matrices/S_order0.png" class="img-responsive" alt="">
+
+[Order 1](./another-page.html).
+<img src="S_matrices/S_order1.png" class="img-responsive" alt="">
+
+[Order 3](./another-page.html).
+<img src="S_matrices/S_order3.png" class="img-responsive" alt="">
+
+[Order 7](./another-page.html).
+<img src="S_matrices/S_order7.png" class="img-responsive" alt="">
+
+[Order 11](./another-page.html).
+<img src="S_matrices/S_order11.png" class="img-responsive" alt="">
+
+[Order 15](./another-page.html).
+<img src="S_matrices/S_order15.png" class="img-responsive" alt="">
+
+[Order 19](./another-page.html).
+<img src="S_matrices/S_order19.png" class="img-responsive" alt="">
+
+[Order 23](./another-page.html).
+<img src="S_matrices/S_order23.png" class="img-responsive" alt="">
+
+[Order 27](./another-page.html).
+<img src="S_matrices/S_order27.png" class="img-responsive" alt="">
+
+[Order 31](./another-page.html).
+<img src="S_matrices/S_order31.png" class="img-responsive" alt="">
+
+[Order 35](./another-page.html).
+<img src="S_matrices/S_order35.png" class="img-responsive" alt="">
+
+[Order 39](./another-page.html).
+<img src="S_matrices/S_order39.png" class="img-responsive" alt="">
+
+[Order 43](./another-page.html).
+<img src="S_matrices/S_order43.png" class="img-responsive" alt="">
+
+[Order 47](./another-page.html).
+<img src="S_matrices/S_order47.png" class="img-responsive" alt="">
+
+[Order 51](./another-page.html).
+<img src="S_matrices/S_order51.png" class="img-responsive" alt="">
+
+[Order 55](./another-page.html).
+<img src="S_matrices/S_order55.png" class="img-responsive" alt="">
+
+[Order 59](./another-page.html).
+<img src="S_matrices/S_order59.png" class="img-responsive" alt="">
+
+[Order 63](./another-page.html).
+<img src="S_matrices/S_order63.png" class="img-responsive" alt="">
+
+[Order 67](./another-page.html).
+<img src="S_matrices/S_order67.png" class="img-responsive" alt="">
+
+[Order 71](./another-page.html).
+<img src="S_matrices/S_order71.png" class="img-responsive" alt="">
+
+[Order 75](./another-page.html).
+<img src="S_matrices/S_order75.png" class="img-responsive" alt="">
+
+[Order 79](./another-page.html).
+<img src="S_matrices/S_order79.png" class="img-responsive" alt="">
+
+[Order 83](./another-page.html).
+<img src="S_matrices/S_order83.png" class="img-responsive" alt="">
+
+[Order 87](./another-page.html).
+<img src="S_matrices/S_order87.png" class="img-responsive" alt="">
+
+[Order 91](./another-page.html).
+<img src="S_matrices/S_order87.png" class="img-responsive" alt="">
+
+[Order 95](./another-page.html).
+<img src="S_matrices/S_order95.png" class="img-responsive" alt="">
+
+[Order 99](./another-page.html).
+<img src="S_matrices/S_order99.png" class="img-responsive" alt="">
+
+[Order 103](./another-page.html).
+<img src="S_matrices/S_order103.png" class="img-responsive" alt="">
+
+[Order 107](./another-page.html).
+<img src="S_matrices/S_order107.png" class="img-responsive" alt="">
+
+[Order 111](./another-page.html).
+<img src="S_matrices/S_order111.png" class="img-responsive" alt="">
+
+[Order 115](./another-page.html).
+<img src="S_matrices/S_order115.png" class="img-responsive" alt="">
+
+[Order 119](./another-page.html).
+<img src="S_matrices/S_order119.png" class="img-responsive" alt="">
+
+[Order 123](./another-page.html).
+<img src="S_matrices/S_order123.png" class="img-responsive" alt="">
+
+[Order 127](./another-page.html).
+<img src="S_matrices/S_order127.png" class="img-responsive" alt="">
+
+[Order 131](./another-page.html).
+<img src="S_matrices/S_order131.png" class="img-responsive" alt="">
+
+[Order 135](./another-page.html).
+<img src="S_matrices/S_order135.png" class="img-responsive" alt="">
+
+[Order 139](./another-page.html).
+<img src="S_matrices/S_order139.png" class="img-responsive" alt="">
+
+[Order 143](./another-page.html).
+<img src="S_matrices/S_order143.png" class="img-responsive" alt="">
+
+[Order 147](./another-page.html).
+<img src="S_matrices/S_order147.png" class="img-responsive" alt="">
+
+[Order 151](./another-page.html).
+<img src="S_matrices/S_order151.png" class="img-responsive" alt="">
+
+[Order 155](./another-page.html).
+<img src="S_matrices/S_order155.png" class="img-responsive" alt="">
+
+[Order 159](./another-page.html).
+<img src="S_matrices/S_order159.png" class="img-responsive" alt="">
+
+[Order 163](./another-page.html).
+<img src="S_matrices/S_order163.png" class="img-responsive" alt="">
+
+[Order 167](./another-page.html).
+<img src="S_matrices/S_order167.png" class="img-responsive" alt="">
+
+[Order 171](./another-page.html).
+<img src="S_matrices/S_order171.png" class="img-responsive" alt="">
+
+[Order 175](./another-page.html).
+<img src="S_matrices/S_order175.png" class="img-responsive" alt="">
+
+[Order 179](./another-page.html).
+<img src="S_matrices/S_order179.png" class="img-responsive" alt="">
+
+[Order 183](./another-page.html).
+<img src="S_matrices/S_order183.png" class="img-responsive" alt="">
+
+[Order 187](./another-page.html).
+<img src="S_matrices/S_order187.png" class="img-responsive" alt="">
+
+[Order 191](./another-page.html).
+<img src="S_matrices/S_order191.png" class="img-responsive" alt="">
+
+[Order 195](./another-page.html).
+<img src="S_matrices/S_order195.png" class="img-responsive" alt="">
+
+[Order 199](./another-page.html).
+<img src="S_matrices/S_order199.png" class="img-responsive" alt="">
+
+[Order 203](./another-page.html).
+<img src="S_matrices/S_order203.png" class="img-responsive" alt="">
+
+[Order 207](./another-page.html)  
+<img src="S_matrices/207.png" class="img-responsive" alt="">  
+
+[Order 211](./another-page.html)  
+<img src="S_matrices/211.png" class="img-responsive" alt="">  
+
+[Order 215](./another-page.html)  
+<img src="S_matrices/215.png" class="img-responsive" alt="">  
+
+[Order 219](./another-page.html)  
+<img src="S_matrices/219.png" class="img-responsive" alt="">  
+
+[Order 223](./another-page.html)  
+<img src="S_matrices/223.png" class="img-responsive" alt="">  
+
+[Order 227](./another-page.html)  
+<img src="S_matrices/227.png" class="img-responsive" alt="">  
+
+[Order 231](./another-page.html)  
+<img src="S_matrices/231.png" class="img-responsive" alt="">  
+
+[Order 235](./another-page.html)  
+<img src="S_matrices/235.png" class="img-responsive" alt="">  
+
+[Order 239](./another-page.html)  
+<img src="S_matrices/239.png" class="img-responsive" alt="">  
+
+[Order 243](./another-page.html)  
+<img src="S_matrices/243.png" class="img-responsive" alt="">  
+
+[Order 247](./another-page.html)  
+<img src="S_matrices/247.png" class="img-responsive" alt="">  
+
+[Order 251](./another-page.html)  
+<img src="S_matrices/251.png" class="img-responsive" alt="">  
+
+[Order 255](./another-page.html)  
+<img src="S_matrices/255.png" class="img-responsive" alt="">  
+
+[Order 259](./another-page.html)  
+<img src="S_matrices/259.png" class="img-responsive" alt="">  
+
+[Order 263](./another-page.html)  
+<img src="S_matrices/263.png" class="img-responsive" alt="">  
+
+[Order 267](./another-page.html)  
+<img src="S_matrices/267.png" class="img-responsive" alt="">  
+
+[Order 271](./another-page.html)  
+<img src="S_matrices/271.png" class="img-responsive" alt="">  
+
+[Order 275](./another-page.html)  
+<img src="S_matrices/275.png" class="img-responsive" alt="">  
+
+[Order 279](./another-page.html)  
+<img src="S_matrices/279.png" class="img-responsive" alt="">  
+
+[Order 283](./another-page.html)  
+<img src="S_matrices/283.png" class="img-responsive" alt="">  
+
+[Order 287](./another-page.html)  
+<img src="S_matrices/287.png" class="img-responsive" alt="">  
+
+[Order 291](./another-page.html)  
+<img src="S_matrices/291.png" class="img-responsive" alt="">  
+
+[Order 295](./another-page.html)  
+<img src="S_matrices/295.png" class="img-responsive" alt="">  
+
+[Order 299](./another-page.html)  
+<img src="S_matrices/299.png" class="img-responsive" alt="">  
+
+[Order 303](./another-page.html)  
+<img src="S_matrices/303.png" class="img-responsive" alt="">  
+
+[Order 307](./another-page.html)  
+<img src="S_matrices/307.png" class="img-responsive" alt="">  
+
+[Order 311](./another-page.html)  
+<img src="S_matrices/311.png" class="img-responsive" alt="">  
+
+[Order 315](./another-page.html)  
+<img src="S_matrices/315.png" class="img-responsive" alt="">  
+
+[Order 319](./another-page.html)  
+<img src="S_matrices/319.png" class="img-responsive" alt="">  
+
+[Order 323](./another-page.html)  
+<img src="S_matrices/323.png" class="img-responsive" alt="">  
+
+[Order 327](./another-page.html)  
+<img src="S_matrices/327.png" class="img-responsive" alt="">  
+
+[Order 331](./another-page.html)  
+<img src="S_matrices/331.png" class="img-responsive" alt="">  
+
+[Order 335](./another-page.html)  
+<img src="S_matrices/335.png" class="img-responsive" alt="">  
+
+[Order 339](./another-page.html)  
+<img src="S_matrices/339.png" class="img-responsive" alt="">  
+
+[Order 343](./another-page.html)  
+<img src="S_matrices/343.png" class="img-responsive" alt="">  
+
+[Order 347](./another-page.html)  
+<img src="S_matrices/347.png" class="img-responsive" alt="">  
+
+[Order 351](./another-page.html)  
+<img src="S_matrices/351.png" class="img-responsive" alt="">  
+
+[Order 355](./another-page.html)  
+<img src="S_matrices/355.png" class="img-responsive" alt="">  
+
+[Order 359](./another-page.html)  
+<img src="S_matrices/359.png" class="img-responsive" alt="">  
+
+[Order 363](./another-page.html)  
+<img src="S_matrices/363.png" class="img-responsive" alt="">  
+
+[Order 367](./another-page.html)  
+<img src="S_matrices/367.png" class="img-responsive" alt="">  
+
+[Order 371](./another-page.html)  
+<img src="S_matrices/371.png" class="img-responsive" alt="">  
+
+[Order 375](./another-page.html)  
+<img src="S_matrices/375.png" class="img-responsive" alt="">  
+
+[Order 379](./another-page.html)  
+<img src="S_matrices/379.png" class="img-responsive" alt="">  
+
+[Order 383](./another-page.html)  
+<img src="S_matrices/383.png" class="img-responsive" alt="">  
+
+[Order 387](./another-page.html)  
+<img src="S_matrices/387.png" class="img-responsive" alt="">  
+
+[Order 391](./another-page.html)  
+<img src="S_matrices/391.png" class="img-responsive" alt="">  
+
+[Order 395](./another-page.html)  
+<img src="S_matrices/395.png" class="img-responsive" alt="">  
+
+[Order 399](./another-page.html)  
+<img src="S_matrices/399.png" class="img-responsive" alt="">  
+
+[Order 403](./another-page.html)  
+<img src="S_matrices/403.png" class="img-responsive" alt="">  
+
+[Order 407](./another-page.html)  
+<img src="S_matrices/407.png" class="img-responsive" alt="">  
+
+[Order 411](./another-page.html)  
+<img src="S_matrices/411.png" class="img-responsive" alt="">  
+
+[Order 415](./another-page.html)  
+<img src="S_matrices/415.png" class="img-responsive" alt="">  
+
+[Order 419](./another-page.html)  
+<img src="S_matrices/419.png" class="img-responsive" alt="">  
+
+[Order 423](./another-page.html)  
+<img src="S_matrices/423.png" class="img-responsive" alt="">  
+
+[Order 427](./another-page.html)  
+<img src="S_matrices/427.png" class="img-responsive" alt="">  
+
+[Order 431](./another-page.html)  
+<img src="S_matrices/431.png" class="img-responsive" alt="">  
+
+[Order 435](./another-page.html)  
+<img src="S_matrices/435.png" class="img-responsive" alt="">  
+
+[Order 439](./another-page.html)  
+<img src="S_matrices/439.png" class="img-responsive" alt="">  
+
+[Order 443](./another-page.html)  
+<img src="S_matrices/443.png" class="img-responsive" alt="">  
+
+[Order 447](./another-page.html)  
+<img src="S_matrices/447.png" class="img-responsive" alt="">  
+
+[Order 451](./another-page.html)  
+<img src="S_matrices/451.png" class="img-responsive" alt="">  
+
+[Order 455](./another-page.html)  
+<img src="S_matrices/455.png" class="img-responsive" alt="">  
+
+[Order 459](./another-page.html)  
+<img src="S_matrices/459.png" class="img-responsive" alt="">  
+
+[Order 463](./another-page.html)  
+<img src="S_matrices/463.png" class="img-responsive" alt="">  
+
+[Order 467](./another-page.html)  
+<img src="S_matrices/467.png" class="img-responsive" alt="">  
+
+[Order 471](./another-page.html)  
+<img src="S_matrices/471.png" class="img-responsive" alt="">  
+
+[Order 475](./another-page.html)  
+<img src="S_matrices/475.png" class="img-responsive" alt="">  
+
+[Order 479](./another-page.html)  
+<img src="S_matrices/479.png" class="img-responsive" alt="">  
+
+[Order 483](./another-page.html)  
+<img src="S_matrices/483.png" class="img-responsive" alt="">  
+
+[Order 487](./another-page.html)  
+<img src="S_matrices/487.png" class="img-responsive" alt="">  
+
+[Order 491](./another-page.html)  
+<img src="S_matrices/491.png" class="img-responsive" alt="">  
+
+[Order 495](./another-page.html)  
+<img src="S_matrices/495.png" class="img-responsive" alt="">  
+
+[Order 499](./another-page.html)  
+<img src="S_matrices/499.png" class="img-responsive" alt="">  
+
+[Order 503](./another-page.html)  
+<img src="S_matrices/503.png" class="img-responsive" alt="">  
+
+[Order 507](./another-page.html)  
+<img src="S_matrices/507.png" class="img-responsive" alt="">  
+
+[Order 511](./another-page.html)  
+<img src="S_matrices/511.png" class="img-responsive" alt="">  
+
+[Order 515](./another-page.html)  
+<img src="S_matrices/515.png" class="img-responsive" alt="">  
+
+[Order 519](./another-page.html)  
+<img src="S_matrices/519.png" class="img-responsive" alt="">  
+
+[Order 523](./another-page.html)  
+<img src="S_matrices/523.png" class="img-responsive" alt="">  
+
+[Order 527](./another-page.html)  
+<img src="S_matrices/527.png" class="img-responsive" alt="">  
+
+[Order 531](./another-page.html)  
+<img src="S_matrices/531.png" class="img-responsive" alt="">  
+
+[Order 535](./another-page.html)  
+<img src="S_matrices/535.png" class="img-responsive" alt="">  
+
+[Order 539](./another-page.html)  
+<img src="S_matrices/539.png" class="img-responsive" alt="">  
+
+[Order 543](./another-page.html)  
+<img src="S_matrices/543.png" class="img-responsive" alt="">  
+
+[Order 547](./another-page.html)  
+<img src="S_matrices/547.png" class="img-responsive" alt="">  
+
+[Order 551](./another-page.html)  
+<img src="S_matrices/551.png" class="img-responsive" alt="">  
+
+[Order 555](./another-page.html)  
+<img src="S_matrices/555.png" class="img-responsive" alt="">  
+
+[Order 559](./another-page.html)  
+<img src="S_matrices/559.png" class="img-responsive" alt="">  
+
+[Order 563](./another-page.html)  
+<img src="S_matrices/563.png" class="img-responsive" alt="">  
+
+[Order 567](./another-page.html)  
+<img src="S_matrices/567.png" class="img-responsive" alt="">  
+
+[Order 571](./another-page.html)  
+<img src="S_matrices/571.png" class="img-responsive" alt="">  
+
+[Order 575](./another-page.html)  
+<img src="S_matrices/575.png" class="img-responsive" alt="">  
+
+[Order 579](./another-page.html)  
+<img src="S_matrices/579.png" class="img-responsive" alt="">  
+
+[Order 583](./another-page.html)  
+<img src="S_matrices/583.png" class="img-responsive" alt="">  
+
+[Order 587](./another-page.html)  
+<img src="S_matrices/587.png" class="img-responsive" alt="">  
+
+[Order 591](./another-page.html)  
+<img src="S_matrices/591.png" class="img-responsive" alt="">  
+
+[Order 595](./another-page.html)  
+<img src="S_matrices/595.png" class="img-responsive" alt="">  
+
+[Order 599](./another-page.html)  
+<img src="S_matrices/599.png" class="img-responsive" alt="">  
+
+[Order 603](./another-page.html)  
+<img src="S_matrices/603.png" class="img-responsive" alt="">  
+
+[Order 607](./another-page.html)  
+<img src="S_matrices/607.png" class="img-responsive" alt="">  
+
+[Order 611](./another-page.html)  
+<img src="S_matrices/611.png" class="img-responsive" alt="">  
+
+[Order 615](./another-page.html)  
+<img src="S_matrices/615.png" class="img-responsive" alt="">  
+
+[Order 619](./another-page.html)  
+<img src="S_matrices/619.png" class="img-responsive" alt="">  
+
+[Order 623](./another-page.html)  
+<img src="S_matrices/623.png" class="img-responsive" alt="">  
+
+[Order 627](./another-page.html)  
+<img src="S_matrices/627.png" class="img-responsive" alt="">  
+
+[Order 631](./another-page.html)  
+<img src="S_matrices/631.png" class="img-responsive" alt="">  
+
+[Order 635](./another-page.html)  
+<img src="S_matrices/635.png" class="img-responsive" alt="">  
+
+[Order 639](./another-page.html)  
+<img src="S_matrices/639.png" class="img-responsive" alt="">  
+
+[Order 643](./another-page.html)  
+<img src="S_matrices/643.png" class="img-responsive" alt="">  
+
+[Order 647](./another-page.html)  
+<img src="S_matrices/647.png" class="img-responsive" alt="">  
+
+[Order 651](./another-page.html)  
+<img src="S_matrices/651.png" class="img-responsive" alt="">  
+
+[Order 655](./another-page.html)  
+<img src="S_matrices/655.png" class="img-responsive" alt="">  
+
+[Order 659](./another-page.html)  
+<img src="S_matrices/659.png" class="img-responsive" alt="">  
+
+[Order 663](./another-page.html)  
+<img src="S_matrices/663.png" class="img-responsive" alt="">  
+
+[Order 671](./another-page.html)  
+<img src="S_matrices/671.png" class="img-responsive" alt="">  
+
+[Order 675](./another-page.html)  
+<img src="S_matrices/675.png" class="img-responsive" alt="">  
+
+[Order 679](./another-page.html)  
+<img src="S_matrices/679.png" class="img-responsive" alt="">  
+
+[Order 683](./another-page.html)  
+<img src="S_matrices/683.png" class="img-responsive" alt="">  
+
+[Order 687](./another-page.html)  
+<img src="S_matrices/687.png" class="img-responsive" alt="">  
+
+[Order 691](./another-page.html)  
+<img src="S_matrices/691.png" class="img-responsive" alt="">  
+
+[Order 695](./another-page.html)  
+<img src="S_matrices/695.png" class="img-responsive" alt="">  
+
+[Order 699](./another-page.html)  
+<img src="S_matrices/699.png" class="img-responsive" alt="">  
+
+[Order 703](./another-page.html)  
+<img src="S_matrices/703.png" class="img-responsive" alt="">  
+
+[Order 707](./another-page.html)  
+<img src="S_matrices/707.png" class="img-responsive" alt="">  
+
+[Order 711](./another-page.html)  
+<img src="S_matrices/711.png" class="img-responsive" alt="">  
+
+[Order 719](./another-page.html)  
+<img src="S_matrices/719.png" class="img-responsive" alt="">  
+
+[Order 723](./another-page.html)  
+<img src="S_matrices/723.png" class="img-responsive" alt="">  
+
+[Order 727](./another-page.html)  
+<img src="S_matrices/727.png" class="img-responsive" alt="">  
+
+[Order 731](./another-page.html)  
+<img src="S_matrices/731.png" class="img-responsive" alt="">  
+
+[Order 735](./another-page.html)  
+<img src="S_matrices/735.png" class="img-responsive" alt="">  
+
+[Order 739](./another-page.html)  
+<img src="S_matrices/739.png" class="img-responsive" alt="">  
+
+[Order 743](./another-page.html)  
+<img src="S_matrices/743.png" class="img-responsive" alt="">  
+
+[Order 747](./another-page.html)  
+<img src="S_matrices/747.png" class="img-responsive" alt="">  
+
+[Order 751](./another-page.html)  
+<img src="S_matrices/751.png" class="img-responsive" alt="">  
+
+[Order 755](./another-page.html)  
+<img src="S_matrices/755.png" class="img-responsive" alt="">  
+
+[Order 759](./another-page.html)  
+<img src="S_matrices/759.png" class="img-responsive" alt="">  
+
+[Order 763](./another-page.html)  
+<img src="S_matrices/763.png" class="img-responsive" alt="">
+
+[Order 767](./another-page.html)  
+<img src="S_matrices/767.png" class="img-responsive" alt="">  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
