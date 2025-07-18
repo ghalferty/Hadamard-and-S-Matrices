@@ -8,7 +8,7 @@ This website serves as a recurring library of examples of all known orders of Ha
 This library currently contains all known matrices up to order 768. It consists of every multiple of 4 except for 668 and 716, for which no known matrix is found.
 
 ## Order 1 Hadamard Matrix
-[Order 1](./another-page.html).
+[Order 1](./Hadamard_matrices/order1.html).
 <img src="Hadamard_matrices/1.png" class="img-responsive" alt=""> 
 
 [Order 2](./another-page.html).
