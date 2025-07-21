@@ -1,0 +1,7 @@
+## Order 692 Hadamard Matrix
+
+| 692 |
+
+<img src="692.png" class="img-responsive" alt=""> 
+
+[View raw matrix](order692.txt)
