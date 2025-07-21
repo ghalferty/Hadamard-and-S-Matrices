@@ -12,7 +12,7 @@ This library currently contains all known matrices up to order 768. It consists 
 <img src="Hadamard_matrices/1.png" class="img-responsive" alt=""> 
 
 ## Order 2
-[Order 2](./another-page.html).
+[Order 2](./Hadamard_matrices/order2.html).
 <img src="Hadamard_matrices/2.png" class="img-responsive" alt="">
 
 ## Order 4
