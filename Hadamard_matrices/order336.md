@@ -1,0 +1,7 @@
+## Order 336 Hadamard Matrix
+
+| 336 |
+
+<img src="336.png" class="img-responsive" alt=""> 
+
+[View raw matrix](order336.txt)
