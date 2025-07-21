@@ -1,0 +1,7 @@
+## Order 72 Hadamard Matrix
+
+| 72 |
+
+<img src="72.png" class="img-responsive" alt=""> 
+
+[View raw matrix](order72.txt)
