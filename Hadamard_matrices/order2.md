@@ -1,3 +1,5 @@
+## Order 2 Hadamard Matrix
+
 | 1 | 1 |
 | 1 | -1 |
 
