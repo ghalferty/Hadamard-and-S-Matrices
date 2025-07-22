@@ -1,8 +1,10 @@
 ## Order 3 S Matrix
 
+<div style="overflow-x:auto;">
 | 1 | 0 | 1 |
 | 0 | 1 | 1 |
 | 1 | 1 | 0 |
+</div>
 
 <img src="S_order3.png" class="img-responsive" alt="">
 
