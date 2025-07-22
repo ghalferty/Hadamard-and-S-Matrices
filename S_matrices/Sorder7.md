@@ -1,0 +1,13 @@
+## Order 7 S Matrix
+
+| 1 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 0 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 0 | 1 | 1 | 0 |
+| 0 | 0 | 0 | 1 | 1 | 1 | 1 |
+| 1 | 0 | 1 | 1 | 0 | 1 | 0 |
+| 0 | 1 | 1 | 1 | 1 | 0 | 0 |
+| 1 | 1 | 0 | 1 | 0 | 0 | 1 |
+
+<img src="S_order7.png" class="img-responsive" alt="">
+
+[View raw matrix](S_order7.txt)

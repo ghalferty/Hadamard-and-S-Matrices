@@ -1,0 +1,9 @@
+## Order 3 S Matrix
+
+| 1 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 1 | 0 |
+
+<img src="S_order3.png" class="img-responsive" alt="">
+
+[View raw matrix](S_order3.txt)
