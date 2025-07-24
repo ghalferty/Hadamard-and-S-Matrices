@@ -1,9 +1,14 @@
+---
+layout: default
+title: Hadamard Matrix Library
+---
+
 # **Hello!**
 {:.no_toc}
-This website serves as a library for examples of all known orders of Hadamard and S-matrices up to a certain value. It is not a fully exhaustive list. Here you will find: images of examples of certain orders of the matrices, links to the numerical matrix that respresents the specific shown image, and lastly, code files that were used to generate orders of these matrices.
+This website serves as a library...
 
 {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=3 %}
-  
+
 # Hadamard Matrices
 
 This website serves as a recurring library of examples of all known orders of Hadamard matrices. It does not list every inequivalent matrix. 
