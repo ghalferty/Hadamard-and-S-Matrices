@@ -34,7 +34,7 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      {% assign parts = content | split: 'toc.html' %}
+     {% assign parts = content | split: '<!-- toc goes here -->' %}
 
 <section id="main_content" class="inner">
   {{ parts[0] | strip }}
