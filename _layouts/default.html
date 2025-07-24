@@ -35,7 +35,11 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        {{ content }}
+        {{ content | split:"<!--toc-->" | first }}
+
+        {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=1 h_max=3 %}
+
+        {{ content | split:"<!--toc-->" | last }}
       </section>
     </div>
 
