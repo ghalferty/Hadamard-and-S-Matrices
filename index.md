@@ -1,4 +1,5 @@
 # **Hello!**
+{:.no_toc}
 This website serves as a library for examples of all known orders of Hadamard and S-matrices up to a certain value. It is not a fully exhaustive list. Here you will find: images of examples of certain orders of the matrices, links to the numerical matrix that respresents the specific shown image, and lastly, code files that were used to generate orders of these matrices.
 
 # Hadamard Matrices
